@@ -8,7 +8,7 @@ Git is a version control system used by almost all the organizations to version 
 ``` 
 
 
-### How can you control parallel development and how multiple developers cna contribute the code parallely ?
+### How can you control parallel development and how multiple developers can contribute and develop the code parallely ?
 ```
 Git branches is the only solution for parallel development and parallel contribution
 ```
